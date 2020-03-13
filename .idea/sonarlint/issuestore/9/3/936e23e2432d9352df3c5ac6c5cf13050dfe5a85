@@ -1,0 +1,7 @@
+
+ksquid:UselessImportCheck"BRemove this unused import 'com.sun.org.apache.regexp.internal.RE'.(÷—•–8Ş€ŞíŒ.
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÔÊøÿÿÿÿ8Ş€ŞíŒ.
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(÷—•–8Ş€ŞíŒ.
+xsquid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8ËıøŒ.
+€squid:S1488"dImmediately return this expression instead of assigning it to the temporary variable "commonResult".(İÑ¹ß8Ş€ŞíŒ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÕÌœ›8ã¢¹ğŒ.
